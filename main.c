@@ -32,11 +32,11 @@ int main() {
 
         switch (choice) {
             case 1: {
-                signup(); // Inscription d'un nouvel utilisateur
+                signup();
                 break;
                     }
             case 2:{
-                role = login(&loggedInUser); // Connexion et récupération du rôle (0 pour user, 1 pour admin)
+                role = login(&loggedInUser);
 
                 if (role == 0) {
                     printf("Login failed. Invalid email or password.\n");
@@ -50,7 +50,7 @@ int main() {
                 {
                     printf("Login successful! You are an administrator.\n");
 
-                   // Menu options for managing products or vouchers
+
                 int manageChoice;
 
                         do {
@@ -251,7 +251,7 @@ int main() {
                     printf("Login successful! You are a Client.\n");
                     int manageChoice;
 
-                    Cart cart = initializeCart(loggedInUser.email); // Initialize or load user's cart
+                    Cart cart = initializeCart(loggedInUser.email);
 
                     do {
                         printf("\n===== Client Management Menu =====\n");
