@@ -1,0 +1,227 @@
+# depslib dependency file v1.0
+1733260207 source:c:\users\acer\desktop\c project\projet c\projet\projet c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"user.c"
+
+1733258826 c:\users\acer\desktop\c project\projet c\projet\projet c\user.h
+
+1733260719 c:\users\acer\desktop\c project\projet c\projet\projet c\user.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+
+1733334748 source:c:\users\mediastudio\desktop\projet c\projet c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prod.c"
+	"user.c"
+	"voucher.c"
+
+1733335206 c:\users\mediastudio\desktop\projet c\projet c\prod.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<float.h>
+	"prod.h"
+
+1733332782 c:\users\mediastudio\desktop\projet c\projet c\prod.h
+
+1733332028 c:\users\mediastudio\desktop\projet c\projet c\user.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+
+1733328525 c:\users\mediastudio\desktop\projet c\projet c\user.h
+
+1733328972 c:\users\mediastudio\desktop\projet c\projet c\voucher.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"voucher.h"
+
+1733328988 c:\users\mediastudio\desktop\projet c\projet c\voucher.h
+
+1733706319 source:c:\users\mediastudio\desktop\secondary folder\projet c\projet c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cart.c"
+	"user.c"
+	"prod.c"
+	"voucher.c"
+	"order.c"
+
+1733583617 c:\users\mediastudio\desktop\secondary folder\projet c\projet c\prod.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<float.h>
+	"prod.h"
+
+1733583644 c:\users\mediastudio\desktop\secondary folder\projet c\projet c\prod.h
+
+1733703809 c:\users\mediastudio\desktop\secondary folder\projet c\projet c\user.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+
+1733583120 c:\users\mediastudio\desktop\secondary folder\projet c\projet c\user.h
+
+1733626568 c:\users\mediastudio\desktop\secondary folder\projet c\projet c\voucher.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"voucher.h"
+
+1733618517 c:\users\mediastudio\desktop\secondary folder\projet c\projet c\voucher.h
+
+1733581421 source:c:\users\mediastudio\desktop\secondary folder\projet c\projet c\cart.c
+	<stdio.h>
+	<string.h>
+	"cart.h"
+
+1733588139 c:\users\mediastudio\desktop\secondary folder\projet c\projet c\cart.h
+	"prod.h"
+	"user.h"
+	"voucher.h"
+
+1733624182 c:\users\mediastudio\desktop\secondary folder\projet c\projet c\cart.c
+	<stdio.h>
+	<string.h>
+	"cart.h"
+
+1733706111 c:\users\mediastudio\desktop\secondary folder\projet c\projet c\order.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"order.h"
+
+1733706117 c:\users\mediastudio\desktop\secondary folder\projet c\projet c\order.h
+	"cart.h"
+	"voucher.h"
+
+1733708789 source:c:\users\acer\desktop\ensi projet\projet c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cart.c"
+	"user.c"
+	"prod.c"
+	"voucher.c"
+	"order.c"
+
+1733785397 c:\users\acer\desktop\ensi projet\projet c\cart.c
+	<stdio.h>
+	<string.h>
+	"cart.h"
+
+1733782001 c:\users\acer\desktop\ensi projet\projet c\cart.h
+	"prod.h"
+	"user.h"
+	"voucher.h"
+
+1733777939 c:\users\acer\desktop\ensi projet\projet c\prod.h
+
+1733777939 c:\users\acer\desktop\ensi projet\projet c\user.h
+
+1733782001 c:\users\acer\desktop\ensi projet\projet c\voucher.h
+
+1733775396 c:\users\acer\desktop\ensi projet\projet c\user.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+
+1733785496 c:\users\acer\desktop\ensi projet\projet c\prod.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<float.h>
+	"prod.h"
+
+1733782001 c:\users\acer\desktop\ensi projet\projet c\voucher.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"voucher.h"
+
+1733708789 c:\users\acer\desktop\ensi projet\projet c\order.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"order.h"
+
+1733708789 c:\users\acer\desktop\ensi projet\projet c\order.h
+	"cart.h"
+	"voucher.h"
+
+1733708789 source:c:\users\acer\desktop\ensi projet\projet-c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cart.c"
+	"user.c"
+	"prod.c"
+	"voucher.c"
+	"order.c"
+
+1733785397 c:\users\acer\desktop\ensi projet\projet-c\cart.c
+	<stdio.h>
+	<string.h>
+	"cart.h"
+
+1733782001 c:\users\acer\desktop\ensi projet\projet-c\cart.h
+	"prod.h"
+	"user.h"
+	"voucher.h"
+
+1733777939 c:\users\acer\desktop\ensi projet\projet-c\prod.h
+
+1733777939 c:\users\acer\desktop\ensi projet\projet-c\user.h
+
+1733782001 c:\users\acer\desktop\ensi projet\projet-c\voucher.h
+
+1733775396 c:\users\acer\desktop\ensi projet\projet-c\user.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"user.h"
+
+1733785496 c:\users\acer\desktop\ensi projet\projet-c\prod.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<float.h>
+	"prod.h"
+
+1733782001 c:\users\acer\desktop\ensi projet\projet-c\voucher.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"voucher.h"
+
+1733708789 c:\users\acer\desktop\ensi projet\projet-c\order.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"order.h"
+
+1733708789 c:\users\acer\desktop\ensi projet\projet-c\order.h
+	"cart.h"
+	"voucher.h"
+

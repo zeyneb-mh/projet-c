@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="cart.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="251" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="user.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2243" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="11" />
+			<Collapse line="44" />
+			<Collapse line="84" />
+			<Collapse line="91" />
+			<Collapse line="103" />
+			<Collapse line="111" />
+		</Folding>
+	</File>
+	<File name="user.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="441" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="voucher.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="96" topLine="2" />
+		</Cursor>
+	</File>
+	<File name="prod.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="-3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2309" topLine="198" />
+		</Cursor>
+	</File>
+	<File name="order.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="934" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="cart.c" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="-2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4889" topLine="68" />
+		</Cursor>
+		<Folding>
+			<Collapse line="47" />
+			<Collapse line="69" />
+			<Collapse line="109" />
+			<Collapse line="162" />
+		</Folding>
+	</File>
+	<File name="voucher.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="-2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5147" topLine="5" />
+		</Cursor>
+		<Folding>
+			<Collapse line="12" />
+			<Collapse line="33" />
+			<Collapse line="53" />
+			<Collapse line="70" />
+			<Collapse line="83" />
+			<Collapse line="115" />
+			<Collapse line="151" />
+			<Collapse line="170" />
+			<Collapse line="181" />
+			<Collapse line="191" />
+		</Folding>
+	</File>
+	<File name="main.c" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="25851" topLine="201" />
+		</Cursor>
+		<Folding>
+			<Collapse line="13" />
+			<Collapse line="55" />
+			<Collapse line="352" />
+			<Collapse line="374" />
+		</Folding>
+	</File>
+	<File name="prod.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="order.c" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="-2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8623" topLine="70" />
+		</Cursor>
+		<Folding>
+			<Collapse line="15" />
+			<Collapse line="133" />
+			<Collapse line="150" />
+			<Collapse line="177" />
+			<Collapse line="189" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>
